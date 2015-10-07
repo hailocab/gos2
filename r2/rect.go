@@ -3,7 +3,7 @@ package r2
 import (
 	"fmt"
 
-	"github.com/davidreynolds/gos2/r1"
+	"github.com/hailocab/gos2/r1"
 )
 
 // Point represents a point in ℝ².

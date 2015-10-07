@@ -5,7 +5,7 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/hailocab/gos2/s1"
 )
 
 type EdgeVectorIndex struct {

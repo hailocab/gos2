@@ -4,7 +4,7 @@ import (
 	"math"
 	"testing"
 
-	"github.com/davidreynolds/gos2/exactfloat"
+	"github.com/hailocab/gos2/exactfloat"
 )
 
 func float64Eq(x, y float64) bool { return math.Abs(x-y) < 1e-14 }

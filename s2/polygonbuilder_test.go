@@ -6,8 +6,8 @@ import (
 	"math/rand"
 	"testing"
 
-	"github.com/davidreynolds/gos2/r3"
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/hailocab/gos2/r3"
+	"github.com/hailocab/gos2/s1"
 )
 
 func TestAddEdge(t *testing.T) {

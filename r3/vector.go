@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/hailocab/gos2/s1"
 )
 
 // Vector represents a point in ℝ³.

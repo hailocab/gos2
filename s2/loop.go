@@ -3,8 +3,8 @@ package s2
 import (
 	"math"
 
-	"github.com/davidreynolds/gos2/r1"
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/hailocab/gos2/r1"
+	"github.com/hailocab/gos2/s1"
 )
 
 // Indexing structure to efficiently compute intersections.

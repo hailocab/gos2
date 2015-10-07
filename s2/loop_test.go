@@ -8,9 +8,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/davidreynolds/gos2/r1"
-	"github.com/davidreynolds/gos2/r3"
-	"github.com/davidreynolds/gos2/s1"
+	"github.com/hailocab/gos2/r1"
+	"github.com/hailocab/gos2/r3"
+	"github.com/hailocab/gos2/s1"
 )
 
 func parsePoints(s string) (vertices []Point) {
